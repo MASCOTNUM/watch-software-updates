@@ -1,0 +1,13 @@
+## Github release feeds (Atom)
+https://github.com/libKriging/libKriging/releases.atom
+https://github.com/stk-kriging/stk/releases.atom
+https://github.com/secondmind-labs/trieste/releases.atom
+https://github.com/GPflow/GPflow/releases.atom
+https://github.com/SheffieldML/GPy/releases.atom
+https://github.com/openturns/openturns/releases.atom
+https://github.com/SALib/SALib/releases.atom
+https://github.com/cornellius-gp/gpytorch/releases.atom
+https://github.com/SMTorg/smt/releases.atom
+https://github.com/Funz/Funz.py/releases.atom
+https://github.com/cossan-working-group/OpenCossan/releases.atom
+https://github.com/IRSN/RobustInv/releases.atom
