@@ -1,4 +1,4 @@
-## Github release feeds (Atom)
+## Github
 https://github.com/libKriging/libKriging/releases.atom
 https://github.com/stk-kriging/stk/releases.atom
 https://github.com/secondmind-labs/trieste/releases.atom
@@ -11,4 +11,9 @@ https://github.com/SMTorg/smt/releases.atom
 https://github.com/Funz/Funz.py/releases.atom
 https://github.com/cossan-working-group/OpenCossan/releases.atom
 https://github.com/IRSN/RobustInv/releases.atom
+
+## Gitlab (not only releases, all tags)
 https://gitlab.com/drti/lagun/-/tags?format=atom
+
+## Sourceforge
+https://sourceforge.net/projects/uranie/rss?path=/
